@@ -7,6 +7,8 @@ This is a simple web application that identifies triangle types based on the len
 ## User Preferences
 
 Preferred communication style: Simple, everyday language.
+Language preference: Indonesian (Bahasa Indonesia)
+Requested C programming implementation for triangle identification.
 
 ## System Architecture
 
